@@ -90,7 +90,7 @@
 
 ## 贡献
 
-欢迎提交 Issue 和 Pull Request 来改进本项目。
+欢迎提交 Issue 和 Pull Request 来改进本项目。请查看我们的[贡献指南](CONTRIBUTING.md)了解如何参与项目开发。
 
 ## 联系方式
 
