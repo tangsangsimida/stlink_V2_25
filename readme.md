@@ -1,6 +1,6 @@
 # ST-Link V2 下载器
 
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 基于 STM32F103CBT6 芯片的高性能 ST-Link V2 下载器，具有完善的安全保护功能。
 
@@ -86,7 +86,7 @@
 
 ## 开源许可
 
-本项目采用 GPL3.0 许可证，详情请参见 [LICENSE](LICENSE) 文件。
+本项目采用 GNU General Public License v3.0 许可证，详情请参见 [LICENSE](LICENSE) 文件。
 
 ## 贡献
 
